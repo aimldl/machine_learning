@@ -2,3 +2,5 @@
 .DS_Store
 __pycache__/
 *.pyc
+nlp/dacon-extractive-text-summarization/project-extraction-of-korean-news/notebooks/추출요약/train.jsonl
+computer-vision/cnn-lab-day2/2일차-실습-코드/yolo/stage1-train.zip

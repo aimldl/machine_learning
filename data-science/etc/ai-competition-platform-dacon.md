@@ -1,0 +1,1 @@
+[[인터뷰] 데이콘 김국진 대표, AI 컴피티션 플랫폼이란?](http://www.aitimes.kr/news/articleView.html?idxno=16072), 2020-04-16, aitimes.kr
